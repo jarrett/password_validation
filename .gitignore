@@ -27,6 +27,7 @@ $RECYCLE.BIN/
 .*
 !.gitkeep
 !.gitignore
+!.travis.yml
 *~
 
 # KDE
